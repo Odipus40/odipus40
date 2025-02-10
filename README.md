@@ -1,4 +1,4 @@
-### Hi there 👋 Samlekom klean semua kntool
+### Hi there 👋 Samlekom klean semua
 
 <!--
 **Odipus40/odipus40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
